@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				30,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ghostleft"
+		},
+		{
+			"offsets": [
+				-67,
+				-147
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ghostright"
+		},
+		{
+			"offsets": [
+				-30,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "ghostdown"
+		},
+		{
+			"offsets": [
+				-34,
+				-149
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "cool",
+			"loop": false,
+			"name": "uwu"
+		},
+		{
+			"offsets": [
+				-44,
+				116
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ghostup"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/garcellodead_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gardead",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

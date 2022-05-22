@@ -3,8 +3,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				1,
-				16
+				7,
+				17
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
@@ -14,8 +14,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-20,
-				-23
+				-15,
+				-19
 			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
@@ -25,8 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-39,
-				24
+				-46,
+				27
 			],
 			"anim": "singUPmiss",
 			"fps": 24,
@@ -36,8 +36,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-45,
-				17
+				-44,
+				22
 			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
@@ -45,127 +45,63 @@
 			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-5,
 				0
 			],
+			"indices": [],
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "BF idle dance",
-			"indices": []
-		},
-		{
 			"loop": false,
-			"offsets": [
-				-18,
-				-23
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "BF NOTE DOWN",
-			"indices": [
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14,
-				15
-			]
+			"name": "I"
 		},
 		{
 			"offsets": [
-				-39,
-				32
+				15,
+				-7
 			],
-			"indices": [
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14,
-				15
-			],
-			"fps": 24,
-			"anim": "singUP",
-			"loop": false,
-			"name": "up"
-		},
-		{
-			"offsets": [
-				7,
-				-8
-			],
-			"indices": [
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14,
-				15
-			],
+			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
 			"loop": false,
-			"name": "l"
+			"name": "L"
 		},
 		{
 			"offsets": [
-				-50,
-				-3
+				-10,
+				-44
 			],
-			"indices": [
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14,
-				15
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "D"
+		},
+		{
+			"offsets": [
+				-36,
+				27
 			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "U"
+		},
+		{
+			"offsets": [
+				-38,
+				-7
+			],
+			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
 			"loop": false,
-			"name": "r"
+			"name": "R"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BF_rtx2",
+	"image": "characters/BF_rtx",
 	"position": [
 		0,
 		350

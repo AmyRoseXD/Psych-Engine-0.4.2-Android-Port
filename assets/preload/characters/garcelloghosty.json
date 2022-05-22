@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-150
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ghostleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-72,
+				-147
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ghostright",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				-107
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ghostdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				-93
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ghostup",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "farewell",
+			"loop": false,
+			"name": "bye"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/garcelloghosty_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gardead",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
